@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:service\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\interfaces\\service\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:interfaces\\service\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\mapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:mapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\middlewares\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:middlewares\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|c:\\users\\anirudh\\source\\repos\\school-management-system\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5D1B1A-A596-42C9-9663-DAD8B719B8EF}|School-Management-System.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Interfaces\\Service\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Service\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Interfaces\\Service\\IEnrollmentService.cs*",
+              "RelativeToolTip": "Interfaces\\Service\\IEnrollmentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:15:44.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Mapping\\Mapper.cs",
+              "RelativeDocumentMoniker": "Mapping\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Mapping\\Mapper.cs",
+              "RelativeToolTip": "Mapping\\Mapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:06:43.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:58:16.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "Repository\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:57:18.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\MiddleWares\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "MiddleWares\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\MiddleWares\\ExceptionHandling.cs",
+              "RelativeToolTip": "MiddleWares\\ExceptionHandling.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:07:27.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Service\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Service\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Service\\EnrollmentService.cs",
+              "RelativeToolTip": "Service\\EnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:03:05.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:34:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:46:56.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:45:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:36:26.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:51:31.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\Anirudh\\source\\repos\\School-Management-System\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:30:25.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
